@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/onemodtwo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sharperinsight.com
+  * I am onemodtwo (https://keybase.io/onemodtwo) on keybase.
+  * I have a public key ASCLUfggK14O7s9FffBm79PLRUbw27qew8wb1j_NjSpqhgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208b51f8202b5e0eeecf457df066efd3cb4546f0dbba9ec3cc1bd63fcd8d2a6a860a",
+            "host": "keybase.io",
+            "kid": "01208b51f8202b5e0eeecf457df066efd3cb4546f0dbba9ec3cc1bd63fcd8d2a6a860a",
+            "uid": "88379cf85d54aa2615f9c838c59c9419",
+            "username": "onemodtwo"
+        },
+        "service": {
+            "hostname": "sharperinsight.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1460425986,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1460425924,
+        "hash": "2fb2120ff8a64a9720938778716fe9a85f7a1509253df4819a5f78e0f751e4ed4297c042d3666bd85c83872eeaf059e0bcba57e825e74ba4a2f8d12c8af6d231",
+        "seqno": 439252
+    },
+    "prev": "9facf57d9f0012b3573ca62fdf9145ae00273b512a9910e8288ed47c36b7c897",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgi1H4ICteDu7PRX3wZu/Ty0VG8Nu6nsPMG9Y/zY0qaoYKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGI1MWY4MjAyYjVlMGVlZWNmNDU3ZGYwNjZlZmQzY2I0NTQ2ZjBkYmJhOWVjM2NjMWJkNjNmY2Q4ZDJhNmE4NjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGI1MWY4MjAyYjVlMGVlZWNmNDU3ZGYwNjZlZmQzY2I0NTQ2ZjBkYmJhOWVjM2NjMWJkNjNmY2Q4ZDJhNmE4NjBhIiwidWlkIjoiODgzNzljZjg1ZDU0YWEyNjE1ZjljODM4YzU5Yzk0MTkiLCJ1c2VybmFtZSI6Im9uZW1vZHR3byJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoic2hhcnBlcmluc2lnaHQuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ2MDQyNTk4NiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYwNDI1OTI0LCJoYXNoIjoiMmZiMjEyMGZmOGE2NGE5NzIwOTM4Nzc4NzE2ZmU5YTg1ZjdhMTUwOTI1M2RmNDgxOWE1Zjc4ZTBmNzUxZTRlZDQyOTdjMDQyZDM2NjZiZDg1YzgzODcyZWVhZjA1OWUwYmNiYTU3ZTgyNWU3NGJhNGEyZjhkMTJjOGFmNmQyMzEiLCJzZXFubyI6NDM5MjUyfSwicHJldiI6IjlmYWNmNTdkOWYwMDEyYjM1NzNjYTYyZmRmOTE0NWFlMDAyNzNiNTEyYTk5MTBlODI4OGVkNDdjMzZiN2M4OTciLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECQiPs3OHS6kb1yuav90WQgq5NbSD/oLzsvWqFvbpA1NtRf+TWT8KkD9/kHM509ZctAjxqa+1Y34pHM8kaX5OEOqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/onemodtwo
+
+==================================================================
